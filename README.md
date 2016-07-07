@@ -1,1 +1,3 @@
 # GradeReport
+
+$ python gradeReport.py 
